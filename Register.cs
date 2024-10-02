@@ -10,5 +10,9 @@ namespace GitHubDemo2
     {
         public int Id { get; set; }
         public string Student { get; set; }
+
+        public string Email { get; set; }
+        public string Address { get; set; }
+
     }
 }
